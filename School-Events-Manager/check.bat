@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe  [PATH TO CHECK.php file]
